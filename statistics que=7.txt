@@ -1,0 +1,131 @@
+The given equation of the lines of regression are
+x+2y−5=0.......(i)
+and 2x+3y−8=0.....(ii)
+
+Rewriting the equations (i) and (ii), we have
+From equation (i)
+y= 
+2
+−x
+​
+ + 
+2
+5
+​
+ 
+y=−0.5x+2.5 *regression line of y on x)
+b 
+yx
+​
+ =r 
+σ 
+x
+​
+ 
+σ 
+y
+​
+ 
+​
+ =−0.5....(iii)
+
+From eqution (ii),
+x= 
+2
+−3
+​
+ y+ 
+2
+8
+​
+ 
+x=−1.5y+4( regression line of x on y)
+b 
+xy
+​
+ =r 
+σ 
+y
+​
+ 
+σ 
+x
+​
+ 
+​
+ 
+∴r 
+2
+ =b 
+yx
+​
+ ×b 
+xy
+​
+ =(−0.5)×(−1.5)=0.75
+∴ r= 
+0.75
+​
+ =±0.866
+
+But b 
+xy
+​
+  and b 
+yx
+​
+  being both −ve therefore, r is also −ve.
+
+Correlation coefficient (r)=−0.866
+
+Varianceof x i.e., σ 
+x
+2
+​
+ =12
+∴ σ 
+x
+​
+ = 
+12
+​
+ 
+
+From equation (iii)
+r 
+σ 
+x
+​
+ 
+σ 
+y
+​
+ 
+​
+ =−0.5
+−0.866. 
+12
+​
+ 
+σ 
+x
+​
+ 
+​
+ =−0.5
+σ 
+y
+​
+ = 
+0.866
+0.5× 
+12
+​
+ 
+​
+ =2
+∴ Variance of y i.e., σ 
+y
+2
+​
+ =4
